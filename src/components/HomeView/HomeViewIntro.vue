@@ -1,7 +1,7 @@
 <template>
     <img class="yellow-blob" src="@/assets/Vectoryellow_blob.svg" />
     <the-navbar></the-navbar>
-    <section class="intro-container">
+    <section id="home" class="intro-container">
         <h1>
             Hi!
             Nice to Meet you 
