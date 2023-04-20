@@ -1,13 +1,11 @@
 <template>
-  <the-navbar></the-navbar>
   <router-view />
 </template>
 
 <script lang="ts">
-  import TheNavbar from "../src/components/UI/TheNavbar.vue";
 import { defineComponent } from "vue";
 export default  defineComponent({
-  components:{ TheNavbar}
+  
 });
 </script>
 
